@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.road-map-component {
+  height: 530px !important;
+}
+
+.road-map-component p {
+  text-align: left !important;
+}
+
+.logo_light {
+  width: 250px;
+}

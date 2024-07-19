@@ -1,0 +1,17 @@
+.custom-input, .custom-input:focus, .custom-input:hover {
+    border-radius: 20px !important;
+    border: 2px solid white !important;
+    background-color: #0c0e27 !important;
+    color: white !important;
+    font-weight: bold !important;
+}
+
+.custom-input input::placeholder {
+    color: white !important;
+    font-weight: bold !important;
+}
+
+.custom-label {
+    color: white !important;
+    font-weight: bold;
+}
