@@ -65,7 +65,7 @@ function App() {
                                 <TokenSaleComponent />
                                 <div className="col-lg-6 col-md-12 col-sm-12 order-first">
                                     <div className="banner_image_right res_md_mb_50 res_xs_mb_30 animation" data-animation-delay="1.5s" data-animation="fadeInRight">
-                                        <img alt="banner_vector2" src="assets/images/banner_img2.png" />
+                                        <img alt="banner_vector2" src="assets/images/banner_img2.jpeg" />
                                     </div>
                                 </div>
                             </div>
