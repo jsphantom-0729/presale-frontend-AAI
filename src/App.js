@@ -65,7 +65,7 @@ function App() {
                                 <TokenSaleComponent />
                                 <div className="col-lg-6 col-md-12 col-sm-12 order-first">
                                     <div className="banner_image_right res_md_mb_50 res_xs_mb_30 animation" data-animation-delay="1.5s" data-animation="fadeInRight">
-                                        <img alt="banner_vector2" src="assets/images/banner_img2.jpg" />
+                                        <img alt="banner_vector2" src="assets/images/banner_img2.jpeg" />
                                     </div>
                                 </div>
                             </div>
@@ -140,7 +140,7 @@ function App() {
                             <div className="row align-items-center">
                                 <div className="col-lg-6 col-md-12 col-sm-12">
                                     <div className="text_md_center">
-                                        <img className="animation" data-animation="zoomIn" data-animation-delay="0.2s" src="assets/images/about_img2.png" alt="aboutimg2" />
+                                        <img className="animation" data-animation="zoomIn" data-animation-delay="0.2s" src="assets/images/about_img2.jpeg" alt="aboutimg2" />
                                     </div>
                                 </div>
                                 <div className="col-lg-6 col-md-12 col-sm-12 res_md_mt_30 res_sm_mt_20">
@@ -237,11 +237,6 @@ function App() {
                             <div className="row align-items-center">
                                 <div className="col-lg-7 col-md-12 col-sm-12">
                                     <div className="title_default_light title_border text_md_center">
-                                        <h4 className="animation" data-animation="fadeInUp" data-animation-delay="0.2s">WHAT IS ARIAN AI?</h4>
-                                        <p className="animation" data-animation="fadeInUp" data-animation-delay="0.4s">Arian Ai is a cutting edge trust token based AI solution specifically developed to enhance the gaming experience. Our platform utilizes advanced AI and blockchain technology to counteract cheating and manipulation by detecting and flagging any discrepancies or attempts to execute third-party programs.</p>
-                                        <p className="animation" data-animation="fadeInUp" data-animation-delay="0.6s">With its trust token based system, it guarantees the integrity of the gaming environment and enhance the trust between players, making the gaming experience more enjoyable and safe for everyone. </p>
-                                    </div>
-                                    <div className="title_default_light title_border text_md_center">
                                         <h4 className="animation" data-animation="fadeInUp" data-animation-delay="0.2s">WHAT MAKES ARIAN AI DIFFERENT FROM OTHER ANTI-CHEAT SOLUTIONS?</h4>
                                         <p className="animation" data-animation="fadeInUp" data-animation-delay="0.4s">Our team of developers has a unique combination of prior experience in cheat development, blockchain development, and cheat prevention systems. We understand the common issues and exploits that plague the gaming industry and have developed a solution that effectively prevents these using the blockchain. </p>
                                     </div>
@@ -249,10 +244,23 @@ function App() {
                                         <h4 className="animation" data-animation="fadeInUp" data-animation-delay="0.2s">WHY IS INVESTING IN ARIAN AI A SMART MOVE FOR THE GAMING INDUSTRY?</h4>
                                         <p className="animation" data-animation="fadeInUp" data-animation-delay="0.4s">The gaming is industry is growing rapidly and is projected to reach a market value of 580 billion dollars by 2030. A common issue that many gaming companies face is that their customers get frustrated over newly developed third-party cheats that current anti-cheat programs struggle to detect. Arian Ai provides a reliable and cost effective solution to this problem, making it an excellent investment opportunity in the gaming industry. </p>
                                     </div>
+                                    <div className="title_default_light title_border text_md_center">
+                                        <h4 className="animation" data-animation="fadeInUp" data-animation-delay="0.2s">WHY IS ARIAN AI DEPLOYED ON SOLANA CHAIN?</h4>
+                                        <p className="animation" data-animation="fadeInUp" data-animation-delay="0.4s">Deploying Arian Ai on Solana chain would provide several benefits such as:</p>
+                                        <p className="animation" data-animation="fadeInUp" data-animation-delay="0.6s">
+                                            • The Solana chain's speed and scalability would allow for real-time monitoring and flagging of suspicious activity.<br></br>
+                                            • ⁠The Solana chain's security would ensure the integrity of the gaming environment and protect player identities.<br></br>
+                                            • ⁠The Solana chain's decentralized nature aligns with Arian Ai's trust token based system that guarantees the integrity of the gaming environment. <br></br>
+                                            • ⁠The Solana chain's strong community would provide support and resources for Arian Ai.<br></br>
+                                            • ⁠The Solana chain's compliance with regulations and laws in many jurisdictions could attract more users and investors to Arian Ai.
+                                        </p>
+                                    </div>
                                 </div>
                                 <div className="col-lg-5 col-md-12 col-sm-12">
                                     <div className="res_md_mt_50 res_sm_mt_30 text-center animation" data-animation="fadeInRight" data-animation-delay="0.2s">
-                                        <img src="assets/images/mobile_app3.png" alt="mobile_app3" />
+                                        <img src="assets/images/mobile_app3.jpeg" alt="mobile_app3" />
+                                        <img src="assets/images/mobile_app4.jpeg" alt="mobile_app3" />
+                                        <img src="assets/images/mobile_app5.jpeg" alt="mobile_app3" />
                                     </div>
                                 </div>
                             </div>
@@ -273,7 +281,7 @@ function App() {
                                 <div className="col-lg-3 col-md-6 col-sm-6 res_md_mb_30 res_sm_mb_20">
                                     <div className="bg_light_dark radius_box team_box_s3 animation" data-animation="fadeInUp" data-animation-delay="0.4s">
                                         <div className="text-center">
-                                            <img src="assets/images/placeholder9.png" alt="placeholder9" />
+                                            <img src="assets/images/dev.png" alt="placeholder9" />
                                             <div className="team_social_s2 list_none">
                                                 <ul>
                                                     <li><a href="#"><i className="fa fa-facebook"></i></a></li>
@@ -321,7 +329,7 @@ function App() {
                                 <div className="col-lg-3 col-md-6 col-sm-6 res_md_mb_30 res_sm_mb_20">
                                     <div className="bg_light_dark radius_box team_box_s3 animation" data-animation="fadeInUp" data-animation-delay="0.6s">
                                         <div className="text-center">
-                                            <img src="assets/images/placeholder9.png" alt="placeholder9" />
+                                            <img src="assets/images/dev.png" alt="placeholder9" />
                                             <div className="team_social_s2 list_none">
                                                 <ul>
                                                     <li><a href="#"><i className="fa fa-facebook"></i></a></li>
@@ -369,7 +377,7 @@ function App() {
                                 <div className="col-lg-3 col-md-6 col-sm-6 res_md_mb_30 res_sm_mb_20">
                                     <div className="bg_light_dark radius_box team_box_s3 animation" data-animation="fadeInUp" data-animation-delay="0.8s">
                                         <div className="text-center">
-                                            <img src="assets/images/placeholder9.png" alt="placeholder9" />
+                                            <img src="assets/images/dev.png" alt="placeholder9" />
                                             <div className="team_social_s2 list_none">
                                                 <ul>
                                                     <li><a href="#"><i className="fa fa-facebook"></i></a></li>
@@ -417,7 +425,7 @@ function App() {
                                 <div className="col-lg-3 col-md-6 col-sm-6">
                                     <div className="bg_light_dark radius_box team_box_s3 animation" data-animation="fadeInUp" data-animation-delay="1s">
                                         <div className="text-center">
-                                            <img src="assets/images/placeholder9.png" alt="placeholder9" />
+                                            <img src="assets/images/dev.png" alt="placeholder9" />
                                             <div className="team_social_s2 list_none">
                                                 <ul>
                                                     <li><a href="#"><i className="fa fa-facebook"></i></a></li>
@@ -477,7 +485,7 @@ function App() {
                                         <div className="col-lg-4 col-md-6 col-sm-6 res_md_mb_30 res_sm_mb_20">
                                             <div className="bg_light_dark radius_box team_box_s3 animation" data-animation="fadeInUp" data-animation-delay="0.2s">
                                                 <div className="text-center">
-                                                    <img src="assets/images/placeholder9.png" alt="placeholder9" />
+                                                    <img src="assets/images/dev.png" alt="placeholder9" />
                                                     <div className="team_social_s2 list_none">
                                                         <ul>
                                                             <li><a href="#"><i className="fa fa-facebook"></i></a></li>
@@ -525,7 +533,7 @@ function App() {
                                         <div className="col-lg-4 col-md-6 col-sm-6 res_md_mb_30 res_sm_mb_20">
                                             <div className="bg_light_dark radius_box team_box_s3 animation" data-animation="fadeInUp" data-animation-delay="0.4s">
                                                 <div className="text-center">
-                                                    <img src="assets/images/placeholder9.png" alt="placeholder9" />
+                                                    <img src="assets/images/dev.png" alt="placeholder9" />
                                                     <div className="team_social_s2 list_none">
                                                         <ul>
                                                             <li><a href="#"><i className="fa fa-facebook"></i></a></li>
@@ -573,7 +581,7 @@ function App() {
                                         <div className="col-lg-4 offset-lg-0 col-md-6 offset-md-3 col-sm-6 offset-sm-3">
                                             <div className="bg_light_dark radius_box team_box_s3 animation" data-animation="fadeInUp" data-animation-delay="0.6s">
                                                 <div className="text-center">
-                                                    <img src="assets/images/placeholder9.png" alt="placeholder9" />
+                                                    <img src="assets/images/dev.png" alt="placeholder9" />
                                                     <div className="team_social_s2 list_none">
                                                         <ul>
                                                             <li><a href="#"><i className="fa fa-facebook"></i></a></li>

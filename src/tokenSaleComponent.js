@@ -29,7 +29,7 @@ const TokenSaleComponent = () => {
 
     return (
         <div className="col-lg-6 col-md-12 col-sm-12 order-lg-first">
-            <div className="banner_text_s2 text_md_center">
+            <div className="banner_text_s2 text_md_center animation" data-animation="fadeInUp" data-animation-delay="1.1s">
 
                 <h2 className="animation text-white" data-animation="fadeInUp" data-animation-delay="1.1s"><strong>Arian Ai Anti Cheat</strong><br/><br/>The Next Generation Blockchain Solution For Fair Play In Gaming</h2><br />
                 <h5 className="animation presale_txt text-white" data-animation="fadeInUp" data-animation-delay="1.3s">Token Presale is <mark className="gradient_box">Live</mark></h5>
